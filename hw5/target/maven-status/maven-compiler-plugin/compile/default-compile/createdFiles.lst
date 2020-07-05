@@ -1,0 +1,4 @@
+webApp\LogInController.class
+webApp\SignUpController.class
+webApp\AccountManager.class
+webApp\Initializer.class

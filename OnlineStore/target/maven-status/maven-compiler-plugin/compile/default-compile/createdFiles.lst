@@ -1,0 +1,8 @@
+store\Product.class
+store\ShoppingCartServlet.class
+store\ShoppingCart.class
+store\Database.class
+store\ProductServlet.class
+store\HomeServlet.class
+store\SessionListener.class
+store\Initializer.class
